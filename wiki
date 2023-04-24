@@ -1,0 +1,6 @@
+#Onderzoek 
+* Readme begint elke keer met uitleg over project
+* Meerdere headers
+* De status van Repo
+* Contributors worden gelist
+* 
