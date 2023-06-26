@@ -27,7 +27,7 @@ _git clone https://github.com/Liamvanbart1/blok-tech.git_
 
 npm install
 
-**Execute**
+## Execute
 
 nodemon server.js
 
