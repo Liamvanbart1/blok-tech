@@ -17,6 +17,24 @@ The User will be able to see their matches and chat with them.
 * JavaScript
 * Adobe XD
 
+
+
+# Starting the project
+
+Clone the porject and install the dependencies with NPM install.
+
+_git clone https://github.com/Liamvanbart1/blok-tech.git_
+
+npm install
+
+**Execute**
+
+nodemon server.js
+
+## Authors
+Liam van bart
 ## License 
 
 [MIT](https://github.com/Liamvanbart1/blok-tech/blob/main/LICENSE)
+
+
