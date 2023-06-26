@@ -17,6 +17,6 @@ The User will be able to see their matches and chat with them.
 * JavaScript
 * Adobe XD
 
-## Licensce 
+## License 
 
 [MIT](https://github.com/Liamvanbart1/blok-tech/blob/main/LICENSE)
