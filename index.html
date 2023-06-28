@@ -1,14 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Music Matching App</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    /* Add your custom CSS styles here */
-  </style>
+<title>Music Matching App</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-  <h1>Music Matching App</h1>
+<h1>
+    Music Matching App
+</h1>
 
   <form>
     <h2>Choose your favorite music genres:</h2>
@@ -21,20 +20,23 @@
     <input type="checkbox" id="country" name="genre" value="country">
     <label for="country">Country</label><br>
     <!-- Add more genres as needed -->
-    
+    <h3 id="demo"></h3>
     <h2>Enter your favorite artist:</h2>
     <input type="text" id="favoriteArtist" name="favoriteArtist">
+    <button id="mijnKnop">Add Artist</button>
     
-    <button type="submit">Find Matches</button>
+    
+    <ul id="Lijst">    
+    </ul>
   </form>
 
   <div id="matches">
     <!-- Match results will be displayed here -->
   </div>
 
-  <script>
+  <script src="static/scripts/main.js">
     // Add your JavaScript code here to handle form submission and display matches
-    // You can use JavaScript libraries like jQuery or Axios to send AJAX requests to a server for matching logic
+    // You can use JavaScript libraries like 1jQuery or Axios to send AJAX requests to a server for matching logic
   </script>
 </body>
 </html>
