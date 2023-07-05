@@ -57,3 +57,5 @@ const mijnFunctie=  (event) => {
     
 const button = document.querySelector("#mijnKnop");
 button.addEventListener('click', mijnFunctie);
+
+const liam = document.querySelector 
